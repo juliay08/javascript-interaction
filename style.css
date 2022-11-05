@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Josefin+Sans&family=Kanit&family=Poor+Story&family=Poppins&family=Shadows+Into+Light&family=Teko&family=Urbanist&display=swap');
+
+body {
+  text-align: center;
+  margin: 40px;
+  padding: 36px;
+  background-color: #3a3b3c;
+  color: #FFC0CB;
+  font-family: "Poppins";
+  font-size: 36px;
+}
+
+input, button {
+  font-size: 32px;
+  padding: 12px;
+  font-family: "Poppins";
+  border-radius: 10px;
+  background-color: white;
+}
+
+#title {
+  text-shadow: 0px 0px 10px #fff;
+  font-family: "Bungee";
+}
+
+#outputText {
+  background-color: #000;
+  color: #ffffff;
+  padding: 32px;
+  font-size: 48px;
+}
